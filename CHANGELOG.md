@@ -1,3 +1,3 @@
-## 0.0.1
+## [0.0.2] - Initial release
+- Added email, password, phone number, and required field validators.
 
-* TODO: Describe initial release.

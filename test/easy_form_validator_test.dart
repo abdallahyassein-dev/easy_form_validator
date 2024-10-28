@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:easy_form_validator/easy_form_validator.dart';
+import 'package:easy_form_validator_test_abdallah/easy_form_validator_test_abdallah.dart';
 
 void main() {
   test('Validates email correctly', () {
